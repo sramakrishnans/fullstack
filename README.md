@@ -62,7 +62,7 @@ To create a boilerplate HTML document using Emmet, you simply type `HTML:5` and 
 
 The basic structure of an HTML document includes:
 
-```html
+html
 <!DOCTYPE html>
 <html>
   <head>
@@ -72,9 +72,9 @@ The basic structure of an HTML document includes:
     <h1>This is a Heading</h1>
     <p>This is a paragraph.</p>
   </body>
-</html>```
+</html>
 
-## What is the `<head>` Tag
+## 💡 What is the `<head>` Tag
 The `<head>` tag contains meta-information about the HTML document. It includes elements such as:
 
 - `<title>`: Specifies the title of the document, shown in the browser's title bar or tab.
@@ -83,7 +83,7 @@ The `<head>` tag contains meta-information about the HTML document. It includes 
 - `<style>`: Contains internal CSS styles.
 - `<script>`: Links to external JavaScript files or includes inline JavaScript.
 
-## What is the `<body>` Tag
+## 💡 What is the `<body>` Tag
 The `<body>` tag contains the content of the HTML document. This is where all the visible elements of the webpage go, such as:
 
 - Headings (`<h1>` to `<h6>`).
@@ -94,12 +94,12 @@ The `<body>` tag contains the content of the HTML document. This is where all th
 - Tables (`<table>`, `<tr>`, `<td>`).
 - Forms (`<form>`, `<input>`, `<textarea>`).
 
-## Important HTML Elements or Tags
+## 💡 Important HTML Elements or Tags
 - `<a>`: The anchor tag is used to create hyperlinks, which are essential for navigation between web pages.
 - `<img>`: The image tag embeds images in a webpage, enhancing visual appeal and providing visual information.
 - `<div>`: The division tag is a container element used to group and style sections of a webpage.
 
-## Difference Between Elements and Tags in HTML
+## 💡 Difference Between Elements and Tags in HTML
 **Tags**: Tags are the building blocks of HTML. They are enclosed in angle brackets, such as `<div>`, `<p>`, or `<a>`. Tags are used to define the start and end of an element.
 
 **Elements**: Elements are the complete structure from the opening tag to the closing tag, including the content in between. For example, `<p>This is a paragraph.</p>` is a paragraph element, consisting of the opening tag `<p>`, the content `This is a paragraph.`, and the closing tag `</p>`.
