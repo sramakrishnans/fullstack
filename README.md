@@ -62,17 +62,17 @@ To create a boilerplate HTML document using Emmet, you simply type `HTML:5` and 
 
 The basic structure of an HTML document includes:
 
-html
-<!DOCTYPE html>
-<html>
-  <head>
-    <title>Page Title</title>
-  </head>
-  <body>
-    <h1>This is a Heading</h1>
-    <p>This is a paragraph.</p>
-  </body>
-</html>
+- html
+- <!DOCTYPE html>
+- <html>
+- <head>
+-    <title>Page Title</title>
+-  </head>
+-  <body>
+-    <h1>This is a Heading</h1>
+-    <p>This is a paragraph.</p>
+-  </body>
+- </html>
 
 ## 💡 What is the `<head>` Tag
 The `<head>` tag contains meta-information about the HTML document. It includes elements such as:
