@@ -72,7 +72,7 @@ The basic structure of an HTML document includes:
     <h1>This is a Heading</h1>
     <p>This is a paragraph.</p>
   </body>
-</html>
+</html>```
 
 ## What is the `<head>` Tag
 The `<head>` tag contains meta-information about the HTML document. It includes elements such as:
